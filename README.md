@@ -28,12 +28,12 @@
 
 ### My projects!
 
-[My first webpage. Made with HTML, CSS AND SCSS] (https://eskaicito.github.io/samuraiband/)
+- [My first webpage. Made with HTML, CSS AND SCSS] (https://eskaicito.github.io/samuraiband/)
 
 # Currently working on...
 
-[Website using Javascript (in progress)]
-[Videogame prototype using Unity (in progress)]
+Website using Javascript (in progress)
+Videogame prototype using Unity (in progress)
 
 <br />
 
