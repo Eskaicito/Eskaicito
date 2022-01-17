@@ -1,6 +1,6 @@
-### Hello, comrades 👋
+## Hello, comrades 👋
 
-## I´m Nicolas, an amateur web developer!
+### I´m Nicolas, an amateur web developer!
 
 - 🔭 I’m currently working on a videogame in Unity
 - 🌱 I’m currently learning Javascript
@@ -22,11 +22,20 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 
 <br />
 
+### My projects!
 
+[My first webpage. Made with HTML, CSS AND SCSS] (https://eskaicito.github.io/samuraiband/)
+
+# Currently working on...
+
+[Website using Javascript (in progress)]
+[Videogame prototype using Unity (in progress)]
+
+<br />
 
 
 
