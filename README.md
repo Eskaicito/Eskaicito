@@ -15,7 +15,7 @@
 
 <br /> 
 
-### Languages and Tools!
+### Languages and Tools! 💻
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
@@ -26,14 +26,14 @@
 
 <br />
 
-### My projects!
+### My projects! 🥇
 
 - [My first webpage. Made with HTML, CSS AND SCSS](https://eskaicito.github.io/samuraiband/)
 
-# Currently working on...
+#### Currently working on... 🔧🔨
 
-[Website using Javascript](in progress)
-[Videogame prototype using Unity](in progress)
+- Website using Javascript (in progress...)
+- Videogame prototype using Unity (in progress...)
 
 <br />
 
