@@ -31,11 +31,11 @@
 ## My projects! 🥇
 
 - [My first webpage. Made with HTML, CSS AND SCSS](https://eskaicito.github.io/samuraiband/)
+- [A webpage inspired by the TRON universe, using HTML, CSS AND JAVASCRIPT](https://proyectotron.000webhostapp.com/index.html)
+- [A videogame inspired by the novel "Divine Comedy", by Dante Alighieri](https://github.com/Eskaicito/finalproyectAlvarezSaldeno.git)
+- 
 
 ### Currently working on... 🔧🔨
-
-- Website using Javascript (in progress...)
-- Videogame prototype using Unity (in progress...)
 
 <br />
 
