@@ -1,13 +1,11 @@
 # Hello, comrades 👋
 
-## I´m Nicolas, an amateur web developer!
+## I´m Nicolas, an amateur web developer and videogame creator!
 
-- 🔭 I’m currently working on a videogame in Unity
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate in any web project
 - 💬 Ask me about philosophy, literature, art, music, coffee and rum haha!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I 
 -->
 ## Connect with me!
 
