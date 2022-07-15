@@ -29,11 +29,14 @@
 ## My projects! 🥇
 
 - [My first webpage. Made with HTML, CSS AND SCSS](https://eskaicito.github.io/samuraiband/)
-- [A webpage inspired by the TRON universe, using HTML, CSS AND JAVASCRIPT](https://proyectotron.000webhostapp.com/index.html)
+- [A webpage inspired by the TRON universe, made with HTML, CSS AND JAVASCRIPT](https://proyectotron.000webhostapp.com/index.html)
 - [A videogame inspired by the novel "Divine Comedy", by Dante Alighieri](https://github.com/Eskaicito/finalproyectAlvarezSaldeno.git)
-- 
+- [An original e-commerce, inspired by the aesthetics of vaporwave and cyberpunk, called "Project Dionysus", made with REACT JS](https://github.com/Eskaicito/project-dionysus)
 
 ### Currently working on... 🔧🔨
+
+- 🎮 A new indie videogame in Unity 3D inspired by the aesthetics of vaporwave, cyberpunk and liminal spaces!
+- 🖥️ A webpage using React JS
 
 <br />
 
