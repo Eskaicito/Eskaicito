@@ -10,7 +10,9 @@ I´m Nicolas, an amateur web  developer :computer:, videogame creator :space_inv
 - 👯 I’m looking to collaborate in any web project
 - 💬 Ask me about philosophy, literature, art, music, coffee and rum haha!
 - 😄 Pronouns: he/him
-## Connect with me!
+
+
+### Connect with me! 🤝🤝
 
 [<img align="left" alt="postleftnerd | Twitter" width="50px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-3.png" />][twitter]
 [<img align="left" alt="nico_sm26 | Instagram" width="50px" src="https://icones.pro/wp-content/uploads/2021/02/instagram-logo-icone5.png" />][instagram]
@@ -19,7 +21,7 @@ I´m Nicolas, an amateur web  developer :computer:, videogame creator :space_inv
 <br /> 
 <br /> 
 
-## Languages and Tools! 💻
+## Languages and Tools! 💻💻
 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -34,19 +36,19 @@ I´m Nicolas, an amateur web  developer :computer:, videogame creator :space_inv
 <br />
 <br />
 
-## My projects! 🥇
+## My projects! 🥇🥇
 
 - [My first webpage. Made with HTML, CSS AND SCSS](https://eskaicito.github.io/samuraiband/)
 - [A webpage inspired by the TRON universe, made with HTML, CSS AND JAVASCRIPT](https://proyectotron.000webhostapp.com/index.html)
 - [A videogame inspired by the novel "Divine Comedy", by Dante Alighieri. Made with Unity 3D](https://github.com/Eskaicito/finalproyectAlvarezSaldeno.git)
 - [An original e-commerce, inspired by the aesthetics of vaporwave and cyberpunk, called "Project Dionysus", made with REACT JS](https://github.com/Eskaicito/project-dionysus)
 
-### Currently working on... 🔧🔨
+## Currently working on... 🔧🔨
 
 - 🎮 A new indie videogame in Unity 3D inspired by the aesthetics of vaporwave, cyberpunk and liminal spaces!
 - 🖥️ A webpage using React JS
 
-### Technical Skills :pencil:
+## Technical Skills 📝📝
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -67,7 +69,7 @@ I´m Nicolas, an amateur web  developer :computer:, videogame creator :space_inv
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### Github Stats :chart_with_upwards_trend:
+## Github Stats 📈📈
 
 [![Eskaicito's GitHub stats](https://github-readme-stats.vercel.app/api?username=eskaicito&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
