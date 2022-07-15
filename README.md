@@ -39,9 +39,9 @@ I´m Nicolas, an amateur web  developer :computer:, videogame creator :space_inv
 ## My projects! 🥇🥇
 
 - [My first webpage. Made with HTML, CSS AND SCSS](https://eskaicito.github.io/samuraiband/)
-- [A webpage inspired by the TRON universe, made with HTML, CSS AND JAVASCRIPT](https://proyectotron.000webhostapp.com/index.html)
-- [A videogame inspired by the novel "Divine Comedy", by Dante Alighieri. Made with Unity 3D](https://github.com/Eskaicito/finalproyectAlvarezSaldeno.git)
-- [An original e-commerce, inspired by the aesthetics of vaporwave and cyberpunk, called "Project Dionysus", made with REACT JS](https://github.com/Eskaicito/project-dionysus)
+- [A webpage inspired by the TRON universe. Made with HTML, CSS AND JAVASCRIPT](https://proyectotron.000webhostapp.com/index.html)
+- [A videogame inspired by the novel "Divine Comedy", by Dante Alighieri. Made with UNITY 3D](https://github.com/Eskaicito/finalproyectAlvarezSaldeno.git)
+- [An original e-commerce, inspired by the aesthetics of vaporwave and cyberpunk, called "Project Dionysus". Made with REACT JS](https://github.com/Eskaicito/project-dionysus)
 
 ## Currently working on... 🔧🔨
 
