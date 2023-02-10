@@ -7,7 +7,6 @@ I´m Nicolas, an amateur web  developer :computer:, videogame creator :space_inv
 </h2>
 
 - 🌱 I’m currently mastering my developing skills
-- 👯 I’m looking to collaborate in any web project
 - 💬 Ask me about philosophy, literature, art, music, coffee and rum haha!
 - 😄 Pronouns: he/him
 
@@ -42,11 +41,11 @@ I´m Nicolas, an amateur web  developer :computer:, videogame creator :space_inv
 - [A webpage inspired by the TRON universe. Made with HTML, CSS AND JAVASCRIPT](https://proyectotron.000webhostapp.com/index.html)
 - [A videogame inspired by the novel "Divine Comedy", by Dante Alighieri. Made with UNITY 3D](https://github.com/Eskaicito/finalproyectAlvarezSaldeno.git)
 - [An original e-commerce, inspired by the aesthetics of vaporwave and cyberpunk, called "Project Dionysus". Made with REACT JS](https://github.com/Eskaicito/project-dionysus)
+- [Game made for the Global Game Jam 2023 (spanish)](https://globalgamejam.org/2023/games/saknes-9)
 
 ## Currently working on... 🔧🔨
 
-- 🎮 A new indie videogame in Unity 3D inspired by the aesthetics of vaporwave, cyberpunk and liminal spaces!
-- 🖥️ A webpage using React JS
+- 🎮 A new indie videogame using Unity 3D
 
 ## Technical Skills 📝📝
 
