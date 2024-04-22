@@ -2,7 +2,9 @@
 Hello, comrades 👋
 </h1>
 
+![BANNER_LINKEDIN](https://github.com/Eskaicito/Eskaicito/assets/94655835/85681725-d9b3-4f93-ae4f-56884c9c99b0.png)
 <h2 align="center">
+  
 I´m Nicolas, an amateur web  developer :computer:, videogame creator :space_invader: and designer :art: !
 </h2>
 
@@ -79,8 +81,6 @@ I´m Nicolas, an amateur web  developer :computer:, videogame creator :space_inv
 
 <br />
 <br />
-
-![accelerate_astronauta](https://user-images.githubusercontent.com/94655835/179289532-d9563e71-8ba4-44b3-b31f-0c89ce2987f4.png)
 
 
 
