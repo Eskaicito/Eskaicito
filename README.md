@@ -18,7 +18,7 @@ I´m Nicolas, game development student 💻 :art: !
 <br /> 
 <br /> 
 
-[//]## Languages and Tools! 💻💻
+[//## Languages and Tools! 💻💻
 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -31,7 +31,7 @@ I´m Nicolas, game development student 💻 :art: !
 <img align="left" alt="Photoshop" width="50px" src="https://user-images.githubusercontent.com/94655835/179292865-fbce6816-d2d1-4be4-b3eb-69abd521ed75.png"  />
 
 <br />
-<br />[//]
+<br />//]
 
 ## My projects! 🥇🥇
 
