@@ -32,19 +32,6 @@ I´m Nicolas, game development student 💻 :art: !
 
 <br />
 <br /> -->
-
-## My projects! 🥇🥇
-
-- [My first webpage inspired by the Cyberpunk 2077 universe. Made with HTML, CSS AND SCSS](https://eskaicito.github.io/samuraiband/)
-- [A webpage inspired by the TRON universe. Made with HTML, CSS AND JAVASCRIPT](https://proyectotron.000webhostapp.com/index.html)
-- [A videogame inspired by the novel "Divine Comedy", by Dante Alighieri. Made with UNITY 3D](https://github.com/Eskaicito/finalproyectAlvarezSaldeno.git)
-- [An original e-commerce, inspired by the aesthetics of vaporwave and cyberpunk, called "Project Dionysus". Made with REACT JS](https://github.com/Eskaicito/project-dionysus)
-- [Game made for the Global Game Jam 2023 (spanish)](https://globalgamejam.org/2023/games/saknes-9)
-
-## Currently working on... 🔧🔨
-
-- 🎮 A new indie videogame using Unity 3D
-
 ## Technical Skills 📝📝
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -67,6 +54,19 @@ I´m Nicolas, game development student 💻 :art: !
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+## My projects! 🥇🥇
+
+- [My first webpage inspired by the Cyberpunk 2077 universe. Made with HTML, CSS AND SCSS](https://eskaicito.github.io/samuraiband/)
+- [A webpage inspired by the TRON universe. Made with HTML, CSS AND JAVASCRIPT](https://proyectotron.000webhostapp.com/index.html)
+- [A videogame inspired by the novel "Divine Comedy", by Dante Alighieri. Made with UNITY 3D](https://github.com/Eskaicito/finalproyectAlvarezSaldeno.git)
+- [An original e-commerce, inspired by the aesthetics of vaporwave and cyberpunk, called "Project Dionysus". Made with REACT JS](https://github.com/Eskaicito/project-dionysus)
+- [Game made for the Global Game Jam 2023 (spanish)](https://globalgamejam.org/2023/games/saknes-9)
+
+## Currently working on... 🔧🔨
+
+- 🎮 A new indie videogame using Unity 3D
+
+
 
 
 ## Github Stats 📈📈
