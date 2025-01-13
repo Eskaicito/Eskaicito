@@ -35,7 +35,7 @@ I´m Nicolas, game development student 💻 :art: !
 
 ## My projects! 🥇🥇
 
-- [My first webpage. Made with HTML, CSS AND SCSS](https://eskaicito.github.io/samuraiband/)
+- [My first webpage inspired by the Cyberpunk 2077 universe. Made with HTML, CSS AND SCSS](https://eskaicito.github.io/samuraiband/)
 - [A webpage inspired by the TRON universe. Made with HTML, CSS AND JAVASCRIPT](https://proyectotron.000webhostapp.com/index.html)
 - [A videogame inspired by the novel "Divine Comedy", by Dante Alighieri. Made with UNITY 3D](https://github.com/Eskaicito/finalproyectAlvarezSaldeno.git)
 - [An original e-commerce, inspired by the aesthetics of vaporwave and cyberpunk, called "Project Dionysus". Made with REACT JS](https://github.com/Eskaicito/project-dionysus)
