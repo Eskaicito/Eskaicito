@@ -19,6 +19,8 @@ I´m Nicolas, game development student 💻 :art: !
 [<img align="left" alt="Nicolas Saldeno | LinkedIn" width="50px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" />][instagram]
 [<img align="left" alt="Nicolas Saldeno | LinkedIn" width="50px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/pinterest.svg" />][pinterest]
 
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+
 
 
 
