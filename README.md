@@ -59,7 +59,6 @@ I´m Nicolas, game development student 💻 :art: !
 <br /> 
 <br /> 
 <br /> 
-<br /> 
 
 ## My projects! 🥇🥇
 
