@@ -3,8 +3,7 @@
 I´m Nicolas, game development student 💻 :art: !
 </h1>
 
-- 🌱 I’m currently mastering my developing skills - 💬 Ask me about philosophy, literature, art, music, coffee and rum haha!
-- 😄 Pronouns: he/him
+- 🌱 I’m currently mastering my developing skills 
 - 💬 Ask me about philosophy, literature, art, music, coffee and rum haha!
 - 😄 Pronouns: he/him
 
