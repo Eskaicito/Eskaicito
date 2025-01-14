@@ -90,6 +90,17 @@ I´m Nicolas, game development student 💻 :art: !
 <br />
 <br />
 
+## Github Stats 📈📈
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=eskaicito&show_icons=true&theme=radical" alt="Eskaicito's GitHub stats" />
+  </a>
+  <a href="https://github.com/eskaicito/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskaicito&langs_count=8&theme=radical&layout=compact" alt="Top Languages" />
+  </a>
+</div>
+
 
 
 [portfolio]: https://eskaicito.github.io/WebPagePortfolio/
