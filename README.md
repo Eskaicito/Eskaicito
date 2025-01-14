@@ -43,7 +43,7 @@ I´m Nicolas, game development student 💻 :art: !
 <br /> -->
 ## Technical Skills 📝📝
 
-### Programming Languages and Frameworks
+#### Programming Languages and Frameworks
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ### Game Development
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
