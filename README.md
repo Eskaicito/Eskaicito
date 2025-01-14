@@ -60,7 +60,7 @@ I´m Nicolas, game development student 💻 :art: !
 <br /> 
 <br /> 
 
-## My projects! 🥇🥇
+## My Portfolio! 🥇🥇
 
 #### Game Development
 - [My Portfolio with all my academic projects!][portfolio]
