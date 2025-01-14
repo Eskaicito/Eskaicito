@@ -1,6 +1,5 @@
 ![BANNER_LINKEDIN](https://github.com/Eskaicito/Eskaicito/assets/94655835/85681725-d9b3-4f93-ae4f-56884c9c99b0.png)
-<h1 align="center" margin-bottom = "1000px">
-  
+<h1 align="center">
 I´m Nicolas, game development student 💻 :art: !
 </h1>
 
