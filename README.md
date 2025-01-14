@@ -21,6 +21,8 @@ I´m Nicolas, game development student 💻 :art: !
 
 <br /> 
 <br /> 
+<br /> 
+<br /> 
 
 <!--Languages and Tools! 💻💻
 
@@ -59,17 +61,21 @@ I´m Nicolas, game development student 💻 :art: !
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-
+<br /> 
+<br /> 
+<br /> 
+<br /> 
 
 ## My projects! 🥇🥇
+
+#### Game Development
+- [My Portfolio with all my academic projects!][portfolio]
 
 #### Web Development
 - [My first webpage inspired by the Cyberpunk 2077 universe. Made with HTML, CSS AND SCSS](https://eskaicito.github.io/samuraiband/)
 - [A webpage inspired by the TRON universe. Made with HTML, CSS AND JAVASCRIPT](https://proyectotron.000webhostapp.com/index.html)
 - [An original e-commerce, inspired by the aesthetics of vaporwave and cyberpunk, called "Project Dionysus". Made with REACT JS](https://github.com/Eskaicito/project-dionysus)
 
-#### Game Development
-- [My Portfolio with all my academic projects!][portfolio]
 
 ## Currently working on... 🔧🔨
 
