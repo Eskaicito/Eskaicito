@@ -79,7 +79,7 @@ I´m Nicolas, game development student 💻 :art: !
 
 
 
-## Github Stats 📈📈
+<!--## Github Stats 📈📈
 
 [![Eskaicito's GitHub stats](https://github-readme-stats.vercel.app/api?username=eskaicito&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -88,11 +88,11 @@ I´m Nicolas, game development student 💻 :art: !
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eskaicito&langs_count=8&theme=radical&layout=compact)](https://github.com/eskaicito/github-readme-stats)
 
 <br />
-<br />
+<br />-->
 
 ## Github Stats 📈📈
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=eskaicito&show_icons=true&theme=radical" alt="Eskaicito's GitHub stats" />
   </a>
