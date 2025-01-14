@@ -63,7 +63,7 @@ I´m Nicolas, game development student 💻 :art: !
 ## My Portfolio! 🥇🥇
 
 #### Game Development
-- [My Portfolio with all my academic projects!](https://img.shields.io/badge/Sitio%20web-Visítame-blue)[portfolio]
+- [My Portfolio with all my academic projects!](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white))[portfolio]
 
 #### Web Development
 - [My first webpage inspired by the Cyberpunk 2077 universe. Made with HTML, CSS AND SCSS](https://eskaicito.github.io/samuraiband/)
