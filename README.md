@@ -18,7 +18,6 @@ I´m Nicolas, game development student 💻 :art: !
 <br /> 
 <br /> 
 <br /> 
-<br /> 
 
 <!--Languages and Tools! 💻💻
 
