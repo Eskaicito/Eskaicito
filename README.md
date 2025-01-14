@@ -11,10 +11,14 @@ I´m Nicolas, game development student 💻 :art: !
 
 ### Connect with me! 🤝🤝
 
-[<img align="left" alt="N7Bard | Twitter" width="50px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-3.png" />][twitter]
+<!--[<img align="left" alt="N7Bard | Twitter" width="50px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-3.png" />][twitter]
 [<img align="left" alt="nico_sm26 | Instagram" width="50px" src="https://icones.pro/wp-content/uploads/2021/02/instagram-logo-icone5.png" />][instagram]
-[<img align="left" alt="eskaicito | Pinterest" width="50px" src="https://graffica.info/wp-content/uploads/2017/08/badgeRGB.png" />][pinterest]
+[<img align="left" alt="eskaicito | Pinterest" width="50px" src="https://graffica.info/wp-content/uploads/2017/08/badgeRGB.png" />][pinterest]-->
 [<img align="left" alt="Nicolas Saldeno | LinkedIn" width="50px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nicolas Saldeno | LinkedIn" width="50px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg" />][twitter]
+[<img align="left" alt="Nicolas Saldeno | LinkedIn" width="50px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" />][instagram]
+[<img align="left" alt="Nicolas Saldeno | LinkedIn" width="50px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/pinterest.svg" />][pinterest]
+
 
 
 
