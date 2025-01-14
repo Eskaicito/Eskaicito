@@ -1,41 +1,57 @@
 ![BANNER_LINKEDIN](https://github.com/Eskaicito/Eskaicito/assets/94655835/85681725-d9b3-4f93-ae4f-56884c9c99b0.png)
 <h1 align="center">
-I´m Nicolas, game development student 💻 :art: !
+  👋 Hi, I'm Nicolás Saldeño! <br>
+  <small><i>Game Development Student | Passionate About Videogames</i></small>
 </h1>
+<p align="center">
+  <em>"Sic Parvis Magna"</em>
+</p>
 
-- 🌱 I’m currently mastering my developing skills 
-- 💬 Ask me about philosophy, literature, art, music, coffee and rum haha!
-- 😄 Pronouns: he/him
+## About Me 🌟
 
+🎓 **Aspiring Game Developer:** Currently mastering Unity and Unreal Engine to create engaging and immersive experiences.  
+🎨 **Creative at Heart:** Passionate about storytelling, level design, and technology.  
+☕ **Coffee Lover:** Enjoys discussing philosophy, literature, and music over a good cup of coffee.  
 
-### Connect with me! 🤝🤝
-[<img align="left" alt="Nicolas Saldeno | LinkedIn" width="50px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" />][linkedin]
-[<img align="left" alt="Nicolas Saldeno | LinkedIn" width="50px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter.svg" />][twitter]
-[<img align="left" alt="Nicolas Saldeno | LinkedIn" width="50px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" />][instagram]
-[<img align="left" alt="Nicolas Saldeno | LinkedIn" width="50px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/pinterest.svg" />][pinterest]
+## Connect with Me 🤝
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicolas-salde%C3%B1o-ba8119206/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/N7Bard" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/nico_sm26/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://ar.pinterest.com/Eskaicito/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest">
+  </a>
+</p>
 
-<br /> 
-<br /> 
-<br /> 
+## Technical Skills 🧰
 
-<!--Languages and Tools! 💻💻
+### Programming Languages
+<div style="display: flex; justify-content: center; gap: 15px;" align= "left" >
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+</div>
 
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="50px" src="https://www.interside.cl/wp-content/uploads/2020/03/c-4.svg"/> 
-<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Unity" width="50px" src="https://www.svgrepo.com/show/331626/unity.svg"  />
-<img align="left" alt="Photoshop" width="50px" src="https://user-images.githubusercontent.com/94655835/179292865-fbce6816-d2d1-4be4-b3eb-69abd521ed75.png"  />
+### Game Development
+<div style="display: flex; justify-content: center; gap: 15px;">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
+</div>
 
-<br />
-<br /> -->
-## Technical Skills 📝📝
+### Tools
+<div style="display: flex; justify-content: center; gap: 15px;">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</div>
 
-#### Main Programming Languages and Frameworks
+<!--#### Main Programming Languages and Frameworks
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 #### Game Development
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -56,51 +72,45 @@ I´m Nicolas, game development student 💻 :art: !
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-<br /> 
-<br /> 
-<br /> 
+<br /> -->
 
-## My Portfolio! 🥇🥇
+## My Portfolio 🥇
 
-#### Game Development
-- [My Portfolio with all my academic projects!](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)[portfolio]
-- [![Visita mi sitio web](https://img.shields.io/badge/Sitio%20web-Visítame-blue)][portfolio]
+### Game Development
+<div style="display: flex; justify-content: center; gap: 15px;">
+  <a href="https://eskaicito.github.io/WebPagePortfolio/">
+    <img src="https://img.shields.io/badge/My_Portfolio-Explore-orange?style=for-the-badge" alt="Portfolio">
+  </a>
+</div>
 
-#### Web Development
-- [My first webpage inspired by the Cyberpunk 2077 universe. Made with HTML, CSS AND SCSS](https://eskaicito.github.io/samuraiband/)
-- [A webpage inspired by the TRON universe. Made with HTML, CSS AND JAVASCRIPT](https://proyectotron.000webhostapp.com/index.html)
-- [An original e-commerce, inspired by the aesthetics of vaporwave and cyberpunk, called "Project Dionysus". Made with REACT JS](https://github.com/Eskaicito/project-dionysus)
-
+### Web Development
+<div style="display: flex; justify-content: center; gap: 15px;">
+  <a href="https://eskaicito.github.io/samuraiband">
+    <img src="https://img.shields.io/badge/Cyberpunk_2077_Page-HTML%2FCSS-blue?style=for-the-badge" alt="Cyberpunk 2077 Page">
+  </a>
+  <a href="https://proyectotron.000webhostapp.com/index.html">
+    <img src="https://img.shields.io/badge/TRON_Page-HTML%2FCSS%2FJS-cyan?style=for-the-badge" alt="TRON Page">
+  </a>
+  <a href="https://github.com/Eskaicito/project-dionysus">
+    <img src="https://img.shields.io/badge/Project_Dionysus-React_JS-purple?style=for-the-badge" alt="Project Dionysus Page">
+  </a>
+</div>
 
 ## Currently working on... 🔧🔨
 
 - 🎮 A new indie videogame using Unity 3D
 
 
+## GitHub Stats 📈
 
-
-<!--## Github Stats 📈📈
-
-[![Eskaicito's GitHub stats](https://github-readme-stats.vercel.app/api?username=eskaicito&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<br /> 
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eskaicito&langs_count=8&theme=radical&layout=compact)](https://github.com/eskaicito/github-readme-stats)
-
-<br />
-<br />-->
-
-## Github Stats 📈📈
-
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 15px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=eskaicito&show_icons=true&theme=radical" alt="Eskaicito's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=eskaicito&show_icons=true&theme=radical" alt="Eskaicito's GitHub Stats">
   </a>
   <a href="https://github.com/eskaicito/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskaicito&langs_count=8&theme=radical&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskaicito&langs_count=8&theme=radical&layout=compact" alt="Top Languages">
   </a>
 </div>
-
 
 
 [portfolio]: https://eskaicito.github.io/WebPagePortfolio/
