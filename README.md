@@ -14,7 +14,8 @@ I´m Nicolas, game development student 💻 :art: !
 [<img align="left" alt="N7Bard | Twitter" width="50px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-3.png" />][twitter]
 [<img align="left" alt="nico_sm26 | Instagram" width="50px" src="https://icones.pro/wp-content/uploads/2021/02/instagram-logo-icone5.png" />][instagram]
 [<img align="left" alt="eskaicito | Pinterest" width="50px" src="https://graffica.info/wp-content/uploads/2017/08/badgeRGB.png" />][pinterest]
-https://www.linkedin.com/sharing/share-offsite/?url={https://www.linkedin.com/in/nicolas-salde%C3%B1o-ba8119206}
+
+
 
 
 <br /> 
