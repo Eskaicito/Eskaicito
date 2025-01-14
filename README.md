@@ -68,11 +68,13 @@ I´m Nicolas, game development student 💻 :art: !
 
 ## My projects! 🥇🥇
 
+#### Web Development
 - [My first webpage inspired by the Cyberpunk 2077 universe. Made with HTML, CSS AND SCSS](https://eskaicito.github.io/samuraiband/)
 - [A webpage inspired by the TRON universe. Made with HTML, CSS AND JAVASCRIPT](https://proyectotron.000webhostapp.com/index.html)
-- [A videogame inspired by the novel "Divine Comedy", by Dante Alighieri. Made with UNITY 3D](https://github.com/Eskaicito/finalproyectAlvarezSaldeno.git)
 - [An original e-commerce, inspired by the aesthetics of vaporwave and cyberpunk, called "Project Dionysus". Made with REACT JS](https://github.com/Eskaicito/project-dionysus)
-- [Game made for the Global Game Jam 2023 (spanish)](https://globalgamejam.org/2023/games/saknes-9)
+
+#### Game Development
+- [My Portfolio with all my academic projects!][portfolio]
 
 ## Currently working on... 🔧🔨
 
@@ -94,7 +96,7 @@ I´m Nicolas, game development student 💻 :art: !
 
 
 
-
+[portfolio]: https://eskaicito.github.io/WebPagePortfolio/
 [linkedin]: https://www.linkedin.com/in/nicolas-salde%C3%B1o-ba8119206/
 [twitter]: https://x.com/N7Bard
 [instagram]: https://www.instagram.com/nico_sm26/
